@@ -1,0 +1,7 @@
+.repices{
+    background: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.btn__recipe{
+    background: #da2b1f;
+    color: Ivory;
+    border: none;
+    border-radius: 5px;
+    padding: 0.7rem;
+    box-shadow: -1px 0px 1px rgba(255, 0, 0);
+    transition: all .1s ease-in-out;
+}
+
+.btn__recipe:hover{
+    columns: white;
+    background: #9f2b1f;
+    cursor: pointer;
+}
